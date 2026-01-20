@@ -1,5 +1,5 @@
-# 🎯 Balloon Buster
-### A C++ Balloon Shooting Game
+# Balloon Buster
+### A C++ Balloon Shooting Game 🎯
 
 A nostalgic, arcade-style implementation of a balloon shooting game developed in **C++** using the legacy `graphics.h` library.
 
