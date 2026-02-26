@@ -12,8 +12,8 @@
 > - ✅ Improved difficulty scaling
 > - ✅ Enhanced retro arcade rendering
 >
-> 👉 **New Repository:**  
-> [Balloon-Buster-2.0](https://github.com/patelritiq/Balloon-Buster-2.0)
+> 👉 **New Repository:**    [Balloon-Buster-2.0](https://github.com/patelritiq/Balloon-Buster-2.0)
+> 
 >
 > This original version was built using `graphics.h` in Turbo C++ and represents the foundation of the project.  
 > Balloon Buster 2.0 carries forward that nostalgic arcade feel while upgrading the experience for modern systems.
