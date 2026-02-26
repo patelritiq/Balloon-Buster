@@ -1,7 +1,12 @@
 // FILE: BALLOON BUSTER i.e. balloon_shooting_game
 // AUTHOR: Ritik Pratap Singh Patel
-// COMPLETION DATE: 24 October 2023
-// DESCRIPTION: A C++ implementation of a balloon shooting game
+// COMPLETION DATE: 24 June 2020
+// DESCRIPTION: A C++ implementation of a balloon shooting game -- my first upload on github
+
+// A modernized edition of Balloon Buster is now available, This original version was built using `graphics.h` in Turbo C++ and represents the foundation of the project.  
+// Balloon Buster 2.0 carries forward that nostalgic arcade feel while upgrading the experience for modern systems.
+// Check new Repository: Balloon-Buster-2.0
+
 #include "graphics.h"
 #include "conio.h"
 #include "stdio.h"
