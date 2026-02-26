@@ -1,3 +1,23 @@
+> ⚠️ **This repository has been upgraded to a newer version.**
+>
+> A modernized edition of Balloon Buster is now available with:
+>
+> - ✅ Cross-platform support (Windows, macOS, Linux)
+> - ✅ Terminal-based gameplay (no DOSBox required)
+> - ✅ Modern C++17 architecture
+> - ✅ Structured game states (Menu, Levels, Survival Mode)
+> - ✅ Score-based progression system
+> - ✅ High score persistence
+> - ✅ Sound effects (shoot, hit, game over)
+> - ✅ Improved difficulty scaling
+> - ✅ Enhanced retro arcade rendering
+>
+> 👉 **New Repository:**  
+> [Balloon-Buster-2.0](https://github.com/patelritiq/Balloon-Buster-2.0)
+>
+> This original version was built using `graphics.h` in Turbo C++ and represents the foundation of the project.  
+> Balloon Buster 2.0 carries forward that nostalgic arcade feel while upgrading the experience for modern systems.
+
 # Balloon Buster
 ### A C++ Balloon Shooting Game 🎯
 
